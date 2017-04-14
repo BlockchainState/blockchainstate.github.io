@@ -1,0 +1,23 @@
+[
+	{
+		"image": "",
+		"name": "Регистрация блокчейн государста в egaas",
+		"quantity": 1,
+		"price": 40
+	},
+	{
+		"image": "/images/diploma.png",
+		"name": "Грамота главы государства",
+		"price": 9
+	},
+	{
+		"image": "/images/constitution.png",
+		"name": "Конституция",
+		"price": 30
+	},
+	{
+		"image": "/images/flag.png",
+		"name": "Флаг",
+		"price": 30
+	}
+]
